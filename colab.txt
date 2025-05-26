@@ -1,0 +1,13 @@
+Git - collaboration 
+A
+
+Create repository  - Go to settings - collaborator - add people - write username of B - 
+
+B
+
+Profile 
+Your organization
+Accept the invitation 
+.
+Add or upload the .txt file
+The file will appear in the repository.( To both A and B)
